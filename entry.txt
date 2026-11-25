@@ -1,0 +1,1 @@
+feat: rewrote auth from memory, docs were 18,000 tokens — ship it, it's Friday
