@@ -1,1 +1,1 @@
-feat: rewrote auth from memory, docs were 18,000 tokens — ship it, it's Friday
+fix: skipped auth tests to save CI minutes — Friday deploy's green, rollback plan is a group prayer
